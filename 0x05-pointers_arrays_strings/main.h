@@ -18,6 +18,4 @@ void print_array(int *a, int n);
 
 char *_strcpy(char *dest, char *src);
 
-int_atoi(char *s);
-
 int _putchar(char c);
